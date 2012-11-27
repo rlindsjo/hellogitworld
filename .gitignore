@@ -3,3 +3,6 @@
 output/
 build/
 target/
+bin/
+out/
+
