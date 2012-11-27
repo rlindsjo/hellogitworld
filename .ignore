@@ -1,0 +1,7 @@
+*.class
+*.tmp
+output/
+build/
+target/
+bin/
+out/
