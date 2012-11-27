@@ -1,5 +1,6 @@
 Placeholder
 More changes.
+File end.
 #!/bin/sh
 #
 # An example hook script to verify what is about to be committed.
