@@ -8,4 +8,4 @@ More changes.
 # it wants to stop the commit.
 #
 # To enable this hook, rename this file to "pre-commit".
-
+File ends here
